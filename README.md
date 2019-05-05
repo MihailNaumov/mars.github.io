@@ -7,7 +7,7 @@
 ![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/Easy-to-use.png)
 ![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/Good-signal.png)
 ![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/Half_dron.png)
-![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/menu.png)
+![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/Menu.png)
 ![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/New-technology.png)
 ![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/Phone.png)
 ![Image alt](https://github.com/MihailNaumov/mars.github.io/raw/master/img/Visibility.png)
