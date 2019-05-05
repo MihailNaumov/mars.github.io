@@ -367,7 +367,7 @@ nav .buy {
 	background-repeat: no-repeat; 
 	float: left;
 	width: 30.8%;
-	background-image: url(img/Half_dron.png);
+	background-image: url(https://github.com/MihailNaumov/mars.github.io/raw/master/img/Half_dron.png);
 	height: 615px;
 }
 .tap_to_fly h2
@@ -392,7 +392,7 @@ nav .buy {
 	background-repeat: no-repeat;
 	float: right;
 	width: 69.2%;
-	background-image: url(img/Dron_view.png);
+	background-image: url(https://github.com/MihailNaumov/mars.github.io/raw/master/img/Dron_view.png);
 	height: 615px;
 }
 /* фывфыв */
