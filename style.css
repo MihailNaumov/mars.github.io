@@ -716,46 +716,56 @@ footer p
 	}
 	.header_logo h1
 	{
-		font-size: 30px;
+		font-size: 40px;
 	}
 	.header_logo img
 	{
 		width: 14px;
 	}
-
+	.phone
+	{
+		padding-top: 20px;
+	}
 	.phone p
 	{
 		width: 50vw;
-		font-size: 18px;
+		font-size: 22px;
 	}
 	.phone img
 	{
-		width:35px;
+		width:45px;
 	}
 	.topnav
 	{
 		width: 100%;
 		margin-left: 0;
 		margin-right: 0;
-		margin-top: 22px;
+		margin-top: 44px;
+		border-bottom-left-radius: 0px;
+	}
+	.topnav.responsive
+	{
+		border-top-width: 5px;
 	}
 	.topnav #menu
 	{
-		right: 12px;
+		right: 48px;
 	}
 	.topnav #menu img
 	{
-		width: 150%;
+		width: 300%;
 	}
 	.topnav a
 	{
-		font-size: 19px;
-		padding-left: 23px;
+		font-size: 30px;
+		padding-left: 28px;
 	}
 	nav .buy 
 	{
 		margin-left: 0;
-		font-size: 19px;
+		font-size: 35px;
+		border-bottom-width: 2px;
+		padding-bottom: 4px;
 	}
 
 	.drone img
@@ -800,10 +810,6 @@ footer p
 	.button
 	{
 		font-size: 18px;
-	}
-	.header_logo h1
-	{
-		margin-bottom: 40px;
 	}
 	.phone
 	{
@@ -852,13 +858,23 @@ footer p
 	}	
 }
 
-@media screen and (max-width: 600px) 
+@media screen and (max-width: 730px) 
 {
 	div .button
 	{
 		font-size: 13px;
 	}
-
+	nav .buy 
+	{
+		border-bottom: none;
+		border-top:2px solid #fc7177;
+		margin-right: 0;
+		top: -50px;
+	}
+	.topnav a
+	{
+		font-size: 20px;
+	}
 	.drone img 
 	{
     	margin-left: 36.3%;
