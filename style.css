@@ -714,6 +714,54 @@ footer p
 	{
 		height: calc(1032px/1.4);
 	}
+
+
+/* начало	 */
+	.header_logo h1
+	{
+		font-size: 30px;
+	}
+	.header_logo img
+	{
+		width: 14px;
+	}
+
+	.phone p
+	{
+		width: 50vw;
+		font-size: 18px;
+	}
+	.phone img
+	{
+		width:35px;
+	}
+	.topnav
+	{
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		margin-top: 22px;
+	}
+	.topnav #menu
+	{
+		right: 12px;
+	}
+	.topnav #menu img
+	{
+		width: 150%;
+	}
+	.topnav a
+	{
+		font-size: 19px;
+		padding-left: 23px;
+	}
+	nav .buy 
+	{
+		margin-left: 0;
+		font-size: 19px;
+	}
+/* конец	 */
+
 	.drone img
 	{
 		margin-left: 42.6%;
@@ -751,59 +799,22 @@ footer p
 	}
 
 }
-@media screen and (max-width: 1000px) 
+@media screen and (max-width: 900px) 
 {
 	.button
 	{
 		font-size: 18px;
 	}
+	/* начало	 */
 	.header_logo h1
 	{
 		margin-bottom: 40px;
-		font-size: 30px;
-	}
-	.header_logo img
-	{
-		width: 14px;
 	}
 	.phone
 	{
 		padding-left: 10.8%;
 	}
-	.phone p
-	{
-		width: 50vw;
-		font-size: 18px;
-	}
-	.phone img
-	{
-		width:35px;
-	}
-	.topnav
-	{
-		width: 100%;
-		margin-left: 0;
-		margin-right: 0;
-		margin-top: 22px;
-	}
-	.topnav #menu
-	{
-		right: 0;
-	}
-	.topnav #menu img
-	{
-		width: 150%;
-	}
-	.topnav a
-	{
-		font-size: 20px;
-		padding-left: 30px;
-	}
-	nav .buy 
-	{
-		margin-left: 0;
-		font-size: 20px;
-	}
+/* конец	 */
 	.fly_higher h2 
 	{
 		padding: 10% 0 10% 0;
