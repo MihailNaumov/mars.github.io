@@ -751,7 +751,7 @@ footer p
 	}
 
 }
-@media screen and (max-width: 900px) 
+@media screen and (max-width: 1000px) 
 {
 	.button
 	{
@@ -891,7 +891,7 @@ footer p
 	}
 	.features .aligner div
 	{
-		width: 99%;
+		width: 100%;
 	}
 	.new_vision .right_side h2
 	{
