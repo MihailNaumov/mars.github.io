@@ -914,10 +914,6 @@ footer p
 	{
 		flex-direction: column;
 	}
-	.features .aligner div
-	{
-		width: 10%;
-	}
 	.new_vision .right_side h2
 	{
 		padding-top: 30%;
