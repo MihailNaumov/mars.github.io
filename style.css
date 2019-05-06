@@ -714,9 +714,6 @@ footer p
 	{
 		height: calc(1032px/1.4);
 	}
-
-
-/* начало	 */
 	.header_logo h1
 	{
 		font-size: 30px;
@@ -760,7 +757,6 @@ footer p
 		margin-left: 0;
 		font-size: 19px;
 	}
-/* конец	 */
 
 	.drone img
 	{
@@ -805,7 +801,6 @@ footer p
 	{
 		font-size: 18px;
 	}
-	/* начало	 */
 	.header_logo h1
 	{
 		margin-bottom: 40px;
@@ -814,7 +809,6 @@ footer p
 	{
 		padding-left: 10.8%;
 	}
-/* конец	 */
 	.fly_higher h2 
 	{
 		padding: 10% 0 10% 0;
