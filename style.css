@@ -317,15 +317,15 @@ nav .buy {
     z-index: 0;
     position: absolute;
     max-width: 32vw;
-    min-width: 212px;
-    min-height: 212px;
+    min-width: 285px;
+    min-height: 285px;
     max-height: 32vw;
 }
 .drone img {
     display: block;
     margin-left: 45.3%;
     max-width: 51.5%;
-    min-width: 340px;
+    min-width: 450px;
     transform: translate(-17.8%,0);
     margin-top: 210px;
     z-index: 5;
@@ -698,7 +698,7 @@ footer p
 	.new_flying h2
 	{
 		padding-top: 100px;
-		width: 100%;
+		width: 90%;
 		font-size: 8vw;
     	line-height: 10vw;
 	}
@@ -760,24 +760,49 @@ footer p
 	.header_logo h1
 	{
 		margin-bottom: 40px;
+		font-size: 30px;
+	}
+	.header_logo img
+	{
+		width: 14px;
 	}
 	.phone
 	{
 		padding-left: 10.8%;
+	}
+	.phone p
+	{
+		width: 50vw;
+		font-size: 18px;
+	}
+	.phone img
+	{
+		width:35px;
 	}
 	.topnav
 	{
 		width: 100%;
 		margin-left: 0;
 		margin-right: 0;
+		margin-top: 22px;
 	}
 	.topnav #menu
 	{
 		right: 0;
 	}
+	.topnav #menu img
+	{
+		width: 150%;
+	}
+	.topnav a
+	{
+		font-size: 20px;
+		padding-left: 30px;
+	}
 	nav .buy 
 	{
 		margin-left: 0;
+		font-size: 20px;
 	}
 	.fly_higher h2 
 	{
@@ -819,8 +844,7 @@ footer p
 	footer
 	{
 		height: 100vw;
-	}
-	
+	}	
 }
 
 @media screen and (max-width: 600px) 
@@ -829,6 +853,7 @@ footer p
 	{
 		font-size: 13px;
 	}
+
 	.drone img 
 	{
     	margin-left: 36.3%;
